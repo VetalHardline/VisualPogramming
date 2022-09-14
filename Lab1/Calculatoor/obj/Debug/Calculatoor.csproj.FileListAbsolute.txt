@@ -1,0 +1,11 @@
+C:\PROGRAMS\Lab1\Calculatoor\bin\Debug\Calculatoor.exe.config
+C:\PROGRAMS\Lab1\Calculatoor\bin\Debug\Calculatoor.exe
+C:\PROGRAMS\Lab1\Calculatoor\bin\Debug\Calculatoor.pdb
+C:\PROGRAMS\Lab1\Calculatoor\obj\Debug\Calculatoor.csproj.AssemblyReference.cache
+C:\PROGRAMS\Lab1\Calculatoor\obj\Debug\Calculatoor.csproj.SuggestedBindingRedirects.cache
+C:\PROGRAMS\Lab1\Calculatoor\obj\Debug\Calculatoor.Form1.resources
+C:\PROGRAMS\Lab1\Calculatoor\obj\Debug\Calculatoor.Properties.Resources.resources
+C:\PROGRAMS\Lab1\Calculatoor\obj\Debug\Calculatoor.csproj.GenerateResource.cache
+C:\PROGRAMS\Lab1\Calculatoor\obj\Debug\Calculatoor.csproj.CoreCompileInputs.cache
+C:\PROGRAMS\Lab1\Calculatoor\obj\Debug\Calculatoor.exe
+C:\PROGRAMS\Lab1\Calculatoor\obj\Debug\Calculatoor.pdb
