@@ -1,0 +1,11 @@
+C:\PROGRAMS\VisualPogramming\Lab2\Task2File\bin\Debug\Task2File.exe.config
+C:\PROGRAMS\VisualPogramming\Lab2\Task2File\bin\Debug\Task2File.exe
+C:\PROGRAMS\VisualPogramming\Lab2\Task2File\bin\Debug\Task2File.pdb
+C:\PROGRAMS\VisualPogramming\Lab2\Task2File\obj\Debug\Task2File.csproj.AssemblyReference.cache
+C:\PROGRAMS\VisualPogramming\Lab2\Task2File\obj\Debug\Task2File.csproj.SuggestedBindingRedirects.cache
+C:\PROGRAMS\VisualPogramming\Lab2\Task2File\obj\Debug\Task2File.Form1.resources
+C:\PROGRAMS\VisualPogramming\Lab2\Task2File\obj\Debug\Task2File.Properties.Resources.resources
+C:\PROGRAMS\VisualPogramming\Lab2\Task2File\obj\Debug\Task2File.csproj.GenerateResource.cache
+C:\PROGRAMS\VisualPogramming\Lab2\Task2File\obj\Debug\Task2File.csproj.CoreCompileInputs.cache
+C:\PROGRAMS\VisualPogramming\Lab2\Task2File\obj\Debug\Task2File.exe
+C:\PROGRAMS\VisualPogramming\Lab2\Task2File\obj\Debug\Task2File.pdb

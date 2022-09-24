@@ -1,0 +1,11 @@
+C:\PROGRAMS\VisualPogramming\Lab2\Task1Strings\bin\Debug\Task1Strings.exe.config
+C:\PROGRAMS\VisualPogramming\Lab2\Task1Strings\bin\Debug\Task1Strings.exe
+C:\PROGRAMS\VisualPogramming\Lab2\Task1Strings\bin\Debug\Task1Strings.pdb
+C:\PROGRAMS\VisualPogramming\Lab2\Task1Strings\obj\Debug\Task1Strings.csproj.AssemblyReference.cache
+C:\PROGRAMS\VisualPogramming\Lab2\Task1Strings\obj\Debug\Task1Strings.csproj.SuggestedBindingRedirects.cache
+C:\PROGRAMS\VisualPogramming\Lab2\Task1Strings\obj\Debug\Task1Strings.Form1.resources
+C:\PROGRAMS\VisualPogramming\Lab2\Task1Strings\obj\Debug\Task1Strings.Properties.Resources.resources
+C:\PROGRAMS\VisualPogramming\Lab2\Task1Strings\obj\Debug\Task1Strings.csproj.GenerateResource.cache
+C:\PROGRAMS\VisualPogramming\Lab2\Task1Strings\obj\Debug\Task1Strings.csproj.CoreCompileInputs.cache
+C:\PROGRAMS\VisualPogramming\Lab2\Task1Strings\obj\Debug\Task1Strings.exe
+C:\PROGRAMS\VisualPogramming\Lab2\Task1Strings\obj\Debug\Task1Strings.pdb
