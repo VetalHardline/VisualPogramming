@@ -1,0 +1,11 @@
+C:\PROGRAMS\VisualPogramming\GameBeetleRace\obj\Debug\GameBeetleRace.csproj.AssemblyReference.cache
+C:\PROGRAMS\VisualPogramming\GameBeetleRace\obj\Debug\GameBeetleRace.csproj.SuggestedBindingRedirects.cache
+C:\PROGRAMS\VisualPogramming\GameBeetleRace\obj\Debug\GameBeetleRace.Form1.resources
+C:\PROGRAMS\VisualPogramming\GameBeetleRace\obj\Debug\GameBeetleRace.Properties.Resources.resources
+C:\PROGRAMS\VisualPogramming\GameBeetleRace\obj\Debug\GameBeetleRace.csproj.GenerateResource.cache
+C:\PROGRAMS\VisualPogramming\GameBeetleRace\obj\Debug\GameBeetleRace.csproj.CoreCompileInputs.cache
+C:\PROGRAMS\VisualPogramming\GameBeetleRace\bin\Debug\GameBeetleRace.exe.config
+C:\PROGRAMS\VisualPogramming\GameBeetleRace\bin\Debug\GameBeetleRace.exe
+C:\PROGRAMS\VisualPogramming\GameBeetleRace\bin\Debug\GameBeetleRace.pdb
+C:\PROGRAMS\VisualPogramming\GameBeetleRace\obj\Debug\GameBeetleRace.exe
+C:\PROGRAMS\VisualPogramming\GameBeetleRace\obj\Debug\GameBeetleRace.pdb
