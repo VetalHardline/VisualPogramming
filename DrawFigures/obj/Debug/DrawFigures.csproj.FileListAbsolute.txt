@@ -1,0 +1,11 @@
+C:\PROGRAMS\VisualPogramming\DrawFigures\bin\Debug\DrawFigures.exe.config
+C:\PROGRAMS\VisualPogramming\DrawFigures\bin\Debug\DrawFigures.exe
+C:\PROGRAMS\VisualPogramming\DrawFigures\bin\Debug\DrawFigures.pdb
+C:\PROGRAMS\VisualPogramming\DrawFigures\obj\Debug\DrawFigures.csproj.AssemblyReference.cache
+C:\PROGRAMS\VisualPogramming\DrawFigures\obj\Debug\DrawFigures.csproj.SuggestedBindingRedirects.cache
+C:\PROGRAMS\VisualPogramming\DrawFigures\obj\Debug\DrawFigures.Form1.resources
+C:\PROGRAMS\VisualPogramming\DrawFigures\obj\Debug\DrawFigures.Properties.Resources.resources
+C:\PROGRAMS\VisualPogramming\DrawFigures\obj\Debug\DrawFigures.csproj.GenerateResource.cache
+C:\PROGRAMS\VisualPogramming\DrawFigures\obj\Debug\DrawFigures.csproj.CoreCompileInputs.cache
+C:\PROGRAMS\VisualPogramming\DrawFigures\obj\Debug\DrawFigures.exe
+C:\PROGRAMS\VisualPogramming\DrawFigures\obj\Debug\DrawFigures.pdb
